@@ -1,5 +1,6 @@
 # Fortnite-Stretched
 A simple script which allows you to launch Fortnite in stretched mode without changing graphic card settings
+You will have to run Fortnite in Fullscreen-Window Mode to see a difference
 
 
 CustomRes.bat:
